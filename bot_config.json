@@ -1,0 +1,11 @@
+{
+    "BOT_TOKEN": "YOUR TOKEN",
+    "NICKNAME_FILE" : "nicks.txt",
+    "USERS_FILE": "users.txt",
+    "HELP_FILE" : "HELP.txt",
+    "BOT_PREFIX" : "!jp",
+    "WRITE_COMMAND" : "write_nick",
+    "CHANGE_NICKNAME_COMMAND" : "change_nick",
+    "CHANGE_NICKNAME_MEMBERS_COMMAND" : "destroy",
+    "HELP" : "HELP"
+}
