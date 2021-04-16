@@ -1,0 +1,2 @@
+test nick 1
+test nick 2
